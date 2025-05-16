@@ -1,0 +1,7 @@
+iopath
+pyre_extensions
+torchrec==1.1.0
+fbgemm-gpu==1.1.0
+torchmetrics==1.0.3
+faiss-gpu-cu12==1.10.0
+databricks-vectorsearch
